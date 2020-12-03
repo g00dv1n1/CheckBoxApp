@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CheckBoxApp</string>
+    <string name="input_money">Ввод денег</string>
+    <string name="pay_inform">Информация об оплате</string>
+    <string name="ok_button">Ok</string>
+    <string name="card_pay">С банковской карты</string>
+    <string name="phone_pay">С мобильного телефона</string>
+    <string name="cash_pay">Наличными по адресу</string>
+    <string name="click_message">Оплата на сумму %1$s %2$s %3$s</string>
+    <string name="empty_message">Все поля должны быть заполнены</string>
+</resources>
